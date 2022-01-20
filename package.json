@@ -2,6 +2,7 @@
   "name": "draft-js",
   "description": "A React framework for building text editors.",
   "version": "0.11.7",
+  "private": true,
   "keywords": [
     "draftjs",
     "editor",
